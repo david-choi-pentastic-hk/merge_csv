@@ -2,6 +2,7 @@
 
 ## Abstract
 Merges multiple CSV outputs from Nessus into a single CSV file.  
+The *.nessus files with the same names as the *.csv files in the same folder will be parsed to insert additional information to the output .csv file.  
 
 ## How to Launch
 1. Switch working directory to source directory (i.e. the directory containing *.csv to be merged).  
