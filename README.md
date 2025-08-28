@@ -10,7 +10,8 @@ The *.nessus files with the same names as the *.csv files in the same folder wil
 cd path/to/source_directory
 python3 another/path/to/merge_csv.py
 ```
-
+  
+or  
 2. Pass the path to source directory to the command line as argument.  
 `python3 path/to/merge_csv.py another/path/to/source_directory`
 
