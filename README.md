@@ -19,6 +19,8 @@ python3 another/path/to/merge_csv.py
 `${source_directory}/merge_csv_output.csv`
 
 To use another filepath or filename, pass the desired filepath to the command line as the 2nd argument, following the path to source directory.  
+  
+e.g. `python3 path/to/merge_csv.py another/path/to/source_directory path/to/destination.csv`  
 
 ## Version
 `python3 path/to/merge_csv.py -v`  
