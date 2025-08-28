@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Pentastic Security Limited. All rights reserved.
+
 # @file merge_csv.py
 # @brief Merges a bunch of CSV files into a single CSV file.
 # @author David Choi <david.choi@pentastic.hk>

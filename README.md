@@ -32,3 +32,7 @@ or
 `python3 path/to/merge_csv.py -h`  
 or  
 `python3 path/to/merge_csv.py --help`  
+
+---
+
+Copyright (c) 2025 Pentastic Security Limited. All rights reserved.
